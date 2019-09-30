@@ -8,9 +8,8 @@ For details about the next event, see our [Meetup Page](https://www.meetup.com/e
 
 The Brisbane SRE meetup is sponsored by the following companies.
 
-<a href="https://foundu.com.au/"><img src="images/foundU.png" alt="foundU"></a>
-
-<a href="https://www.neto.com.au/"><img src="images/neto.svg?sanitize=true" width="150" alt="neto"></a>
+<a href="https://foundu.com.au/" style="padding-right: 30px"><img src="images/foundU.png" alt="foundU"></a>
+<a href="https://www.neto.com.au/" style="padding-right: 30px"><img src="images/neto.svg?sanitize=true" width="150" alt="neto"></a>
 
 ## Code of conduct
 
