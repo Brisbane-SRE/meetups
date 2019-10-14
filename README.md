@@ -12,6 +12,8 @@ The Brisbane SRE meetup is sponsored by the following companies.
 
 <a href="https://www.neto.com.au/"><img src="images/neto.svg?sanitize=true" width="150" alt="neto"></a>
 
+<a href="https://github.com/rokerlabs/"><img src="images/roker.svg?sanitize=true" width="150" alt="rokerlabs"></a>
+
 ## Code of conduct
 
 View our Code of Conduct [here](./code-of-conduct.md)
